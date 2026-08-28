@@ -13,7 +13,7 @@ Experienced in the complete data lifecycle—from ingestion, cleaning, and SQL m
 - Developer Tools: Git & GitHub, VS Code, Jupyter Notebooks
 
 🚀 Featured Projects:
-1. 🤖 Bayyan AI / TaxAI — RAG-Based Tax Advisory Chatbot (Graduation Project): https://github.com/MohLGNDQ2D/TaxAI
+1. 🤖 Bayyan AI / TaxAI — RAG-Based Tax Advisory Chatbot (Graduation Project)
 - Tech Stack: FastAPI, PostgreSQL, ChromaDB, LangGraph, Tesseract OCR, LLMs
 - Conversational AI system for Jordanian tax inquiries using a hybrid RAG pipeline (BM25 + ChromaDB embeddings), stateful multi-turn memory, and rule-based deterministic tax calculation logic.
 - (It is not published yet)
