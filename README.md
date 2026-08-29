@@ -1,34 +1,82 @@
-👋 Hi, I'm Mohammad Jaradat!
-📊 Data Science & AI Graduate | Data Analyst & Applied AI Engineer
+# Hi there, I'm Mohammad Jaradat 👋
 
-Fresh Data Science and AI graduate from Yarmouk University with a solid foundation in Data Analytics (SQL, Power BI, Python) and practical experience in Applied AI & RAG System Design.
+<p align="left">
+  <strong>Data Science & AI Graduate | Data Analyst & Applied AI Engineer</strong><br>
+  <em>Yarmouk University — Very Good Standing 🎓 | Irbid, Jordan 📍</em>
+</p>
 
-Experienced in the complete data lifecycle—from ingestion, cleaning, and SQL modeling to interactive BI dashboards and AI workflow orchestration.
+<p align="left">
+  <a href="https://raw.githubusercontent.com/MohLGNDQ2D/MohLGNDQ2D/main/Mohammad_Jaradat_CV.pdf">
+    <img src="https://img.shields.io/badge/📄_Download-CV_(PDF)-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+  <a href="https://github.com/MohLGNDQ2D/MohLGNDQ2D/blob/main/Mohammad_Jaradat_CV.pdf">
+    <img src="https://img.shields.io/badge/👁️_View-CV-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View CV">
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-khair-samir-jaradata19707320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mohammadlinkedin2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-🛠️ Skills & Technologies:
-- Data Analytics & BI: SQL (MySQL, SQLite), Python (Pandas, NumPy), Power BI (DAX, Modeling), Tableau, Excel
-- Applied AI & LLMs: Retrieval-Augmented Generation (RAG), ChromaDB (Vector DB), LangGraph, Prompt Engineering, OCR (Tesseract)
-- Backend & Databases: FastAPI, PostgreSQL, SQLite
-- ML & Data Science: Scikit-learn, Supervised ML, Model Evaluation
-- Developer Tools: Git & GitHub, VS Code, Jupyter Notebooks
+---
 
-🚀 Featured Projects:
-1. 🤖 Bayyan AI / TaxAI — RAG-Based Tax Advisory Chatbot (Graduation Project)
-- Tech Stack: FastAPI, PostgreSQL, ChromaDB, LangGraph, Tesseract OCR, LLMs
-- Conversational AI system for Jordanian tax inquiries using a hybrid RAG pipeline (BM25 + ChromaDB embeddings), stateful multi-turn memory, and rule-based deterministic tax calculation logic.
-- (It is not published yet)
+### 👨‍💻 About Me
 
-2. 🚚 Olist E-Commerce: Delivery Delay & Customer Satisfaction Analysis: https://github.com/MohLGNDQ2D/Olist_Data_Analysis
-- Tech Stack: SQL, Python (Pandas), Power BI, SQLite
-- Investigated the quantitative impact of shipping delays on customer review scores across 96k+ orders, proving that delays cause an immediate 40% decline in review ratings.
+Fresh Data Science and AI graduate from **Yarmouk University** with a strong foundation in **Data Analytics** and hands-on experience building **Applied AI & RAG systems**.
 
-🎓 Education & Key Certifications:
-- 🎓 B.Sc. in Data Science & Artificial Intelligence — Yarmouk University (Very Good)
-- 🏅 Fundamentals of Deep Learning — NVIDIA
-- 🏅 Gemini Certified Student (University Tier) — Google for Education
-- 🏅 Generative AI: Prompt Engineering — IBM
-- 💡 Software Engineering & Problem-Solving Trainee — 42 Irbid, Crown Prince Foundation
+- 📊 **Data Analytics & BI:** End-to-end data pipelines, exploratory data analysis, complex SQL querying, statistical data modeling, and executive Power BI dashboards.
+- 🤖 **Applied AI & RAG:** Designing stateful conversational workflows, hybrid dense/sparse search (ChromaDB + BM25), and prompt engineering for production use cases.
+- 🎯 **Problem Solving:** Passionate about transforming messy data into clear business insights and measurable quantitative impact.
 
-📬 Connect with Me:
-- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-khair-samir-jaradata19707320
-- 📧 Email: mohammadlinkedin2004@gmail.com
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Area | Technologies & Frameworks |
+| :--- | :--- |
+| **Data Analytics & BI** | `Python (Pandas, NumPy, Seaborn, Matplotlib)` • `SQL (PostgreSQL, SQLite, MySQL)` • `Power BI (DAX, Modeling)` • `Tableau` • `Excel` |
+| **Applied AI & RAG** | `ChromaDB (Vector DB)` • `LangGraph` • `Prompt Engineering` • `Tesseract OCR` • `LLM Integration` |
+| **Backend & Databases** | `FastAPI` • `PostgreSQL` • `SQLite` • `RESTful APIs` |
+| **Machine Learning** | `Scikit-Learn` • `Supervised ML` • `Model Evaluation & Cross-Validation` |
+| **Developer Tools** | `Git & GitHub` • `Jupyter Notebook` • `VS Code` • `UV` • `Linux / Bash` |
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. 🚚 [Olist E-Commerce: Delivery Delay & Customer Satisfaction Analysis](https://github.com/MohLGNDQ2D/Olist_Data_Analysis)
+- **Tech Stack:** `Python (Pandas, Seaborn)` • `SQL (SQLite / Advanced Aggregations)` • `Power BI` • `Jupyter Notebook`
+- **Impact & Findings:** Analyzed **96,353+ real customer orders** to quantify the business impact of logistics delays. Demonstrated that delayed deliveries cause an immediate **40% decline in customer review scores** (4.29 ⭐ on-time vs. 2.57 ⭐ delayed), providing actionable fulfillment recommendations.
+- **Repository:** [github.com/MohLGNDQ2D/Olist_Data_Analysis](https://github.com/MohLGNDQ2D/Olist_Data_Analysis)
+
+#### 2. 🤖 **Bayyan AI (TaxAI Jordan) — RAG-Based Tax Advisory Assistant** *(Graduation Project)*
+- **Tech Stack:** `FastAPI` • `PostgreSQL` • `ChromaDB` • `LangGraph` • `React / Vite` • `OCR` • `LLM Routing`
+- **Architecture:** AI tax-preparation platform designed specifically for Jordanian individual taxpayers. Implements a hybrid RAG pipeline (BM25 keyword + multilingual-e5 dense embeddings), stateful memory carry-forward, automated expense receipt OCR extraction, and deterministic Python-based tax calculation engine.
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **B.Sc. in Data Science and Artificial Intelligence** — Yarmouk University *(Rating: Very Good)*
+- 🏅 **Fundamentals of Deep Learning** — NVIDIA Deep Learning Institute
+- 🏅 **Gemini Certified Student (University Tier)** — Google for Education
+- 🏅 **Generative AI: Prompt Engineering Basics** — IBM
+- 💡 **Software Engineering & Problem Solving Trainee** — 42 Irbid / Crown Prince Foundation
+
+---
+
+### 📫 Connect & Collaborate
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-khair-samir-jaradata19707320">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mohammadlinkedin2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammadlinkedin2004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/MohLGNDQ2D">
+    <img src="https://img.shields.io/badge/GitHub-MohLGNDQ2D-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
